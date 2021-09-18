@@ -61,8 +61,8 @@ include:
 author:
   name             : "Maanas Vohra"
   avatar           : "/others/profile.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Software Engineer, Cisco Systems"
-  location         : "Bangalore, India"
+  bio              : "MS CS Graduate Student at UC Davis"
+  location         : "Davis, CA"
   email            : "vohramaanas@gmail.com"
   uri              :
   bitbucket        :
