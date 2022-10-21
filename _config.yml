@@ -21,8 +21,7 @@
 title: Maanas Vohra
 email: vohramaanas@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A software engineer with an zeal to learn about
-  full-stack development, machine learning and data science.
+  MS CS Graduate Student at UC Davis. Previously SDE Intern at TikTok and SDE at Swiggy and Cisco.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
